@@ -64,7 +64,7 @@ With more time, I’d like to trace specific query paths (e.g., search vs aggreg
 <img src="images/5_mcp_run.png">
 </p>
 
-<p align="center">*Claude Desktop using msgvault mcp tool*</p>
+<p align="center"><i>Claude Desktop using msgvault mcp tool</i></p>
 
 
 
