@@ -59,14 +59,18 @@ With more time, I’d like to trace specific query paths (e.g., search vs aggreg
 <img src="images/3_tui_run.png">
 </p>
 
-### MCP Server Test Run 
+### Running msgvault MCP Server 
 <p align="center">
 <img src="images/5_mcp_run.png">
 </p>
 
-*Note: One behavior I noticed during exploration was that running the MCP server and the TUI simultaneously (in separate terminals) didn’t seem to work as expected - whichever process was started first functioned correctly, while the second did not pull up data.
+*Claude Desktop using msgvault mcp tool*
 
-This may be an intentional design choice, possibly related to exclusive access to the local SQLite database or avoiding concurrent reads/writes from multiple processes. With more time, I’d look into whether this is a documented constraint or if there’s a recommended way to run these components concurrently.*
+
+
+*Note:* *One behavior I noticed during exploration was that running the MCP server and the TUI simultaneously (in separate terminals) didn’t seem to work as expected - whichever process was started first functioned correctly, while the second did not pull up data.*
+
+*This may be an intentional design choice, possibly related to exclusive access to the local SQLite database or avoiding concurrent reads/writes from multiple processes. With more time, I’d look into whether this is a documented constraint or if there’s a recommended way to run these components concurrently.*
 
 
 
