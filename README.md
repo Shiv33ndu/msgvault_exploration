@@ -54,12 +54,12 @@ With more time, I’d like to trace specific query paths (e.g., search vs aggreg
 
 ## Screenshots
 
-### Running TUI 
+- ### Running TUI 
 <p align="center">
 <img src="images/3_tui_run.png">
 </p>
 
-### Running msgvault MCP Server 
+- ### Running msgvault MCP Server 
 <p align="center">
 <img src="images/5_mcp_run.png">
 </p>
