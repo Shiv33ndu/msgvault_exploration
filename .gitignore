@@ -1,0 +1,33 @@
+# Python
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Output of scripts
+*.log
+*.sqlite
+/dist/
+/build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+# if you use pipenv, it is recommended to include Pipfile.lock in version control
+
+# Editors and IDEs
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Raw DB Data
+data/raw/*.db
+data/processed/*.csv
+
+
