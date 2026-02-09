@@ -36,7 +36,7 @@ This exercise explores how unstructured email data archived via msgvault can be 
     - promotional emails 
 - One mixed cluster emerged, which is expected given short snippets and broadly informational content.
 
-Detailed examples and plots are available in the [`results/`](results/) directory.
+Detailed examples and plots are available in the [`results/`](results/cluster_examples.md) markdown file.
 
 
 ## What I learned 
